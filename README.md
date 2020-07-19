@@ -5,9 +5,9 @@ Library management systems also involve maintaining the database for entering ne
 
 Create a package.json file§
 
-npm install
+To create a package.json file, on the command line, in the root directory of your Node.js module, run `npm init`:
 
-
+Use `npm install <pkg>` afterwards to install a package and
 save it as a dependency in the package.json file.
 
 
@@ -27,14 +27,12 @@ cookie-parser − Parse Cookie header and populate req.cookies with an object ke
 
 multer − This is a node.js middleware for handling multipart/form-data.
 
-$ npm install body-parser --save
-$ npm install cookie-parser --save
-$ npm install multer --save
+npm install body-parser --save
+npm install cookie-parser --save
+npm install multer --save
 
 
-*
-https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
-
+*https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
 
 
 
