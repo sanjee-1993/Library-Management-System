@@ -28,9 +28,9 @@ cookie-parser − Parse Cookie header and populate req.cookies with an object ke
 
 multer − This is a node.js middleware for handling multipart/form-data.
 
-1) npm install body-parser --save
-2) npm install cookie-parser --save
-3) npm install multer --save
+1) `npm install body-parser --save`
+2) `npm install cookie-parser --save`
+3) `npm install multer --save`
 
 
 *https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
