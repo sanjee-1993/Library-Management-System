@@ -5,8 +5,9 @@ Library management systems also involve maintaining the database for entering ne
 
 Create a package.json file§
 
-To create a package.json file, on the command line, in the root directory of your Node.js module, run
- `npm init`:
+To create a package.json file, on the command line, in the root directory of your Node.js module, run:
+
+ `npm init`
 
 Use `npm install <pkg>` afterwards to install a package and
 save it as a dependency in the package.json file.
