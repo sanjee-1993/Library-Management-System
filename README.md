@@ -17,7 +17,7 @@ Installing Express
 
 Firstly, install the Express framework globally using NPM so that it can be used to create a web application using node terminal.
 
-npm install express --save
+`npm install express --save`
 
 
 The above command saves the installation locally in the node_modules directory and creates a directory express inside node_modules. You should install the following important modules along with express −
@@ -28,12 +28,12 @@ cookie-parser − Parse Cookie header and populate req.cookies with an object ke
 
 multer − This is a node.js middleware for handling multipart/form-data.
 
-1) npm install body-parser --save
-2) npm install cookie-parser --save
-3) npm install multer --save
+`1) npm install body-parser --save`
+`2) npm install cookie-parser --save`
+`3) npm install multer --save`
 
 
-# https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
+`https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm`
 
 
 
